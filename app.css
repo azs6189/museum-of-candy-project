@@ -22,6 +22,7 @@ body {
 
 #mainNavbar {
 	font-size: 1.5rem;
+	font-weight: 100;
 }
 
 #mainNavbar .nav-link {
@@ -33,7 +34,7 @@ body {
 
 #mainNavbar .navbar-brand {
 	color: #ea1c2c;
-	font-weight: 10;
+	font-size: 1.5rem;
 }
 
 #headingGroup span {
@@ -53,5 +54,8 @@ body {
 	#headingGroup h1 {
 		font-weight: 100;
 		font-size: 3rem;
+	}
+	.blurb h2 {
+		font-size: 2rem;
 	}
 }
